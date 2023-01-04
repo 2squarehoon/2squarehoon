@@ -20,4 +20,4 @@
 
 
 <h2>BOJ SOLVED Rank</h2>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=shhh1006)](https://solved.ac/shhh1006)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=shhh1006)](https://solved.ac/shhh1006)<br/>
